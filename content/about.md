@@ -4,9 +4,7 @@ This site is the map of the OpenMobilityData repositories on GitHub: public reco
 
 ## The author
 
-The repositories were created, and the derived documents written, by Rick Hoge, a resident of Côte-des-Neiges–Notre-Dame-de-Grâce who cycles on Terrebonne in every season. He works as a data scientist and is a professor in the Faculty of Medicine at McGill University, where his research is in neuroscience and biomedical engineering. The work here is personal: done as a resident, on his own time, from public records, and representing no position of McGill University or of any other organization; the affiliation is given for identification only.
-
-I am a researcher, not an engineer (not a member of the Ordre des ingénieurs du Québec): this is a data analysis, not an engineering opinion, done on my own initiative and under no professional mandate.
+The repositories were created, and the derived documents written, by Rick Hoge, a researcher in the Faculty of Medicine at McGill University. The views expressed here are the author's own and do not reflect the position of any institution or organization. Unless otherwise indicated, analyses presented here should be considered preliminary pre-peer-review drafts. Nothing in this site should be considered an engineering opinion or legal advice.
 
 ## How the record repositories are kept
 
