@@ -4,7 +4,9 @@ This site is the map of the OpenMobilityData repositories on GitHub: public reco
 
 ## The author
 
-The repositories were created, and the derived documents written, by Rick Hoge, a researcher in the Faculty of Medicine at McGill University. The views expressed here are the author's own and do not reflect the position of any institution or organization. Unless otherwise indicated, analyses presented here should be considered preliminary pre-peer-review drafts. Nothing in this site should be considered an engineering opinion or legal advice.
+The repositories were created, and the derived documents written, by Rick Hoge, a researcher in the Faculty of Medicine at McGill University. The views expressed here are the author's own and do not reflect the position of any institution or organization. Unless otherwise indicated, analyses presented here should be considered preliminary pre-peer-review drafts - feedback from other researchers and members of the public is welcome in the GitHub 'Issues' board.
+
+Nothing in this site should be considered an engineering opinion or legal advice.
 
 ## How the record repositories are kept
 
