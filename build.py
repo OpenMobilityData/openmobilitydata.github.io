@@ -202,7 +202,7 @@ class Site:
 </main>
 <footer class="foot">
 <div class="wrap">
-<p>Rick Hoge, PhD. A data analysis from public records, done on the author's own initiative; see <a href="about.html">About</a>.</p>
+<p>Rick Hoge, PhD. An independent data analysis from public records; see <a href="about.html">About</a>.</p>
 <p>Corrections are welcome through the issue tracker of the repository concerned, on <a href="https://github.com/{esc(self.org)}">GitHub</a>. Page generated on {esc(show_date(date.today().isoformat()))}.</p>
 </div>
 </footer>
