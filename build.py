@@ -112,7 +112,7 @@ class Site:
 
     def file_url(self, repo: str, path: str) -> str:
         if repo in self.pages_repos:
-            return f"https://{self.org.lower()}.github.io/{repo}/{path}"
+            return f"https://{self.site['domain']}/{repo}/{path}"
         return f"https://github.com/{self.org}/{repo}/blob/main/{path}"
 
     def links(self, e: dict) -> list[tuple[str, str]]:

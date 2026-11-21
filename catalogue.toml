@@ -14,6 +14,7 @@
 name = "OpenMobilityData"
 tagline = "Public records and open data on mobility in Montréal"
 org = "OpenMobilityData"
+domain = "openmobilitydata.ca"
 pages_repos = ["Terrebonne-access-requests", "Terrebonne-open-sources"]
 intro = """
 Documents and datasets kept with their provenance, and the code that reads them.
