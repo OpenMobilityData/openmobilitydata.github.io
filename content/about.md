@@ -1,6 +1,6 @@
 # About
 
-This site is the map of the OpenMobilityData repositories on GitHub: public records and open data on mobility in Montréal, kept with their provenance, and the code that reads them. Each entry opens a document or the folder that holds it; the folder's README says what the document is, where it came from and how every table and figure made from it can be reproduced.
+This site is the map of the OpenMobilityData repositories on GitHub: public records and open data on mobility and road safety in Montréal, kept with their provenance, and the code that reads them. Each entry opens a document or the folder that holds it; the folder's README says what the document is, where it came from and how every table and figure made from it can be reproduced.
 
 ## The author
 

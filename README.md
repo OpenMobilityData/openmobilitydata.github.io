@@ -1,6 +1,6 @@
 # openmobilitydata.github.io
 
-The umbrella site of the [OpenMobilityData](https://github.com/OpenMobilityData) repositories: public records and open data on mobility in Montréal, organized by topic, with one entry per document, analysis, dataset or application.
+The umbrella site of the [OpenMobilityData](https://github.com/OpenMobilityData) repositories: public records and open data on mobility and road safety in Montréal, organized by topic, with one entry per document, analysis, dataset or application.
 
 It is served at https://openmobilitydata.ca/ (GitHub Pages; the older `openmobilitydata.github.io` addresses, including those of the other repositories' web copies, redirect there).
 

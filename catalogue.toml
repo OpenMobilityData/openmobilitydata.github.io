@@ -12,7 +12,7 @@
 
 [site]
 name = "OpenMobilityData"
-tagline = "Public records and open data on mobility in Montréal"
+tagline = "Public records and open data on mobility and road safety in Montréal"
 org = "OpenMobilityData"
 domain = "openmobilitydata.ca"
 pages_repos = ["Terrebonne-access-requests", "Terrebonne-open-sources"]
